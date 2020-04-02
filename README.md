@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-<!DOCTYPE html>
+
 <html>
 	<head>
 		<meta charset="utf-8">
@@ -37,12 +37,6 @@
 			2     大眠  <audio src="大眠.mp3"controls="true">
 				       </audio>
 			</p2>
-		<p3><br>
-		  处处吻MV <br>
-		  <video width="602px" height="345px" controls="controls"> 
-		  <source src="处处吻.mp4" type="video/mp4"></source> 
-		  <source src="处处吻.ogg" type="video/ogg"></source> 
-          浏览器不支持video请<a download="video" href="处处吻.mp4">下载视频</a>！</video>    </p3>           </video>
 	    <p4><br>
 		点击下方图标前往音乐平台！
 		<img src="下载.jfif" alt="" usemap="#map" />
